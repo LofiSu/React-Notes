@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "f02604c14a2a951c",
+    "type": "split",
+    "children": [
+      {
+        "id": "333e09620539c0cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa281cc29c7300a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React学习心得/6.25知识点回忆和心得.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efeaf81a5d63f7fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React学习心得/Beginning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c297c0eb6c7c8a58",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f29b28d5d9afa68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1fd4af49c50b33b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4709f51cbaee3682",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c2e74fd9b19a9bb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b930b098efe578de",
+    "type": "split",
+    "children": [
+      {
+        "id": "3846b25a56f7ee60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f6e61f23d9bbf78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React学习心得/Beginning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "817587ab6f4e0e6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "React学习心得/Beginning.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a16353d2882fad86",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "78f11e7f2843f931",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "React学习心得/Beginning.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "efeaf81a5d63f7fb",
+  "lastOpenFiles": [
+    "React学习心得/7.1学习心得.md",
+    "React学习心得/6.29.md",
+    "React学习心得/6.25知识点回忆和心得.md",
+    "React Notes/Hook.md",
+    "React Notes/状态管理.md",
+    "React Notes/添加交互.md",
+    "React Notes/描述UI.md",
+    "知识点回忆/HTML.md",
+    "01E2CD1B.png",
+    "ztpic",
+    "未命名",
+    "ztpic/Pasted image 20240630130850.png",
+    "ztpic/Pasted image 20240629195556.png",
+    "ztpic/Pasted image 20240629192212.png",
+    "ztpic/Pasted image 20240629171317.png",
+    "React学习心得/Beginning.md",
+    "reactpic/Pasted image 20240629104514.png",
+    "reactpic",
+    "交互",
+    "reactpic/Pasted image 20240629104651.png",
+    "reactpic/Pasted image 20240629104709.png",
+    "reactpic/Pasted image 20240629135858.png",
+    "reactpic/Pasted image 20240629104453.png",
+    "知识点回忆",
+    "uipic",
+    "React Notes/UI",
+    "Welcome.md",
+    "React Notes",
+    "React学习心得"
+  ]
+}
